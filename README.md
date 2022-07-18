@@ -9,6 +9,14 @@ Avine is a python Dork Parser with a proxy scraper and sql/lfi scanner. Scanners
 ## Help
 For help join my discord server [Avine Discord](https://discord.gg/txytskBP3s) or [Github Discord](https://discord.com/invite/JcAvQc797r)
 
+## Installing
+```
+git clone https://github.com/MachineKillin/Avine
+cd avine
+pip install -r requirements.txt
+python3 avine.py
+```
+
 ## Pictures
 ![](pictures/parser.png)
 ![](pictures/sqliscan.png)
