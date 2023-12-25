@@ -7,7 +7,7 @@ Avine is an unfinished sql/dorking tool I made in python. A lot of things I neve
 Avine is a python Dork Parser with a proxy scraper and sql/lfi scanner. Scanners do not work but can be fixed. This program was going to be sold thats why theres a login screen. I did not want to sell the python version due to it being slow. **Please do give credit if you use my code anywhere!**
 
 ## Help
-For help join my discord server [Avine Discord](https://discord.gg/PCYTj7MFSE) or [Github Discord](https://discord.com/invite/JcAvQc797r)
+For help join my discord server [Avine Discord](https://discord.gg/bFUKufJp6X) or [Github Discord](https://discord.com/invite/JcAvQc797r)
 
 ## Installing
 ```
